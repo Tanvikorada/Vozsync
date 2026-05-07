@@ -1,0 +1,6 @@
+{
+  "name": "VoxSync",
+  "description": "Real-time AI voice and text translator with seamless cross-lingual communication.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI-powered translation", "Voice capture"]
+}
